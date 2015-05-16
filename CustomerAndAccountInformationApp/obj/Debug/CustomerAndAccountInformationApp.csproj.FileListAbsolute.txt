@@ -1,0 +1,8 @@
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\CustomerAndAccountInformationApp\CustomerAndAccountInformationApp\bin\Debug\CustomerAndAccountInformationApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\CustomerAndAccountInformationApp\CustomerAndAccountInformationApp\bin\Debug\CustomerAndAccountInformationApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\CustomerAndAccountInformationApp\CustomerAndAccountInformationApp\bin\Debug\CustomerAndAccountInformationApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\CustomerAndAccountInformationApp\CustomerAndAccountInformationApp\obj\Debug\CustomerAndAccountInformationApp.CustomerAndAccountInformationUI.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\CustomerAndAccountInformationApp\CustomerAndAccountInformationApp\obj\Debug\CustomerAndAccountInformationApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\CustomerAndAccountInformationApp\CustomerAndAccountInformationApp\obj\Debug\CustomerAndAccountInformationApp.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\CustomerAndAccountInformationApp\CustomerAndAccountInformationApp\obj\Debug\CustomerAndAccountInformationApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\CustomerAndAccountInformationApp\CustomerAndAccountInformationApp\obj\Debug\CustomerAndAccountInformationApp.pdb
